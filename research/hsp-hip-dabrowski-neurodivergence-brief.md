@@ -98,7 +98,7 @@ The Polish term is *nadpobudliwość psychiczna*, roughly "psychic superstimulab
 - **S**ensitivity to **S**ubtleties
 
 ### 2.3 Key research findings
-- **Prevalence:** Aron's original estimate was ~15–20%. Lionetti et al. (2018, *Translational Psychiatry*, "Dandelions, tulips and orchids") found **three groups** using latent class analysis: low (~25–35%), medium (~40–47%) and high sensitivity (~20–35%). **[Moderate]**
+- **Prevalence:** Aron's original estimate was ~15–20%. Lionetti et al. (2018, *Translational Psychiatry*, "Dandelions, tulips and orchids") studied 906 adults and found **three groups** using latent class analysis: low (29%), medium (40%) and high sensitivity (31%). **[Moderate, verified via PubMed, doi:10.1038/s41398-017-0090-6]**
   - *For your series:* roughly **1 in 3 to 1 in 5 people** fall in the "high" group. That is very common, which is one reason HSP posts get mass resonance.
 - **Heritability:** a twin study (Assary et al., 2021, *Molecular Psychiatry*) estimated environmental sensitivity at **~47% heritable**. **[Moderate]**
 - **Neural correlates:** fMRI studies (e.g., Acevedo et al., 2014, *Brain and Behavior*) link high SPS to greater activation in regions for awareness, empathy and integration (insula, inferior frontal gyrus, cingulate). These are **small samples**; treat them as suggestive. **[Weak–Moderate]**
@@ -152,7 +152,7 @@ IQ is **measurable**. Sensitivity and intensity are **not the same construct**. 
 
 ### 4.2 AuDHD (Autism + ADHD)
 - Before **DSM-5 (2013)**, autism and ADHD could not be diagnosed together. Now they can.
-- **Co-occurrence:** a meta-analysis (Rong et al., 2021) estimated **~40%** of autistic people have ADHD; individual studies range from ~30% to 70%. **[Strong for "very common"; the exact figure varies]**
+- **Co-occurrence:** a meta-analysis (Rong et al., 2021; *still to verify*) estimated **~40%** of autistic people have ADHD; individual studies range from ~30% to 70%. **[Strong for "very common"; the exact figure varies]**
 - **"AuDHD" is a community term, not a formal diagnosis.** Clinically it is two diagnoses.
 - **Phenotype features often described:**
   - A tug-of-war between **novelty-seeking (ADHD) and routine-needing (autism)**.
@@ -167,7 +167,7 @@ IQ is **measurable**. Sensitivity and intensity are **not the same construct**. 
   1. **Giftedness masks disability.** High ability compensates, so the person is "bright but underperforming" and gets diagnosed late.
   2. **Disability masks giftedness.** Struggles hide potential, so the person is never identified as gifted.
   3. **Each masks the other.** The person appears "average" and neither need is met.
-- **Is ADHD "real" in high-IQ people, or just OE?** Antshel et al. (2007, *Psychological Medicine*) found that high-IQ children with ADHD show **similar impairment, family patterns and comorbidity** to typical-IQ ADHD. The diagnosis is **valid** in gifted people. **[Moderate–Strong]**
+- **Is ADHD "real" in high-IQ people, or just OE?** Antshel et al. (2009, *Psychological Medicine* 39(8), doi:10.1017/S0033291708004959) compared 64 high-IQ adults (IQ ≥ 120) with ADHD against 53 high-IQ adults without it. The ADHD group showed **impairment, family patterns and comorbidity paralleling average-IQ ADHD**: lower quality of life, more accidents and arrests, more depression and anxiety. The diagnosis is **valid** in high-IQ people. **[Moderate–Strong, verified via PubMed]**
   - This directly counters the strong form of the "it's just overexcitability, not ADHD" argument.
 - **Assessment caveat:** cognitive testing in 2e people often shows a **large gap between strong verbal/reasoning scores and weaker working-memory/processing-speed scores**. That gap can drag the full-scale IQ down and hide giftedness. **[Moderate]**
 
@@ -293,15 +293,15 @@ The highest-priority sources to open and confirm, in order:
 | # | Source | What to confirm |
 |---|---|---|
 | 1 | Aron & Aron (1997), *JPSP* 73(2) | Original HSP scale and findings |
-| 2 | Lionetti et al. (2018), *Translational Psychiatry* | Low/medium/high group percentages |
+| 2 | ~~Lionetti et al. (2018), *Translational Psychiatry*~~ | ✅ Verified: 29 / 40 / 31%, n=906 |
 | 3 | Greven et al. (2019), *Neuroscience & Biobehavioral Reviews* | Best critical review of SPS |
 | 4 | Winkler & Voight (2016), *Gifted Child Quarterly* | Which OEs differ in gifted vs non-gifted, and effect sizes |
 | 5 | Vuyk, Krieshok & Kerr (2016), *Gifted Child Quarterly* | OE–Openness overlap |
 | 6 | Reis, Baum & Burke (2014), *Gifted Child Quarterly* | 2e operational definition |
-| 7 | Antshel et al. (2007), *Psychological Medicine* | ADHD validity in high-IQ children |
-| 8 | Rong et al. (2021) meta-analysis | ADHD rate in autism |
+| 7 | ~~Antshel et al. (2009), *Psychological Medicine*~~ | ✅ Verified: high-IQ **adults**, n=117 |
+| 8 | Rong et al. (2021) meta-analysis | ADHD rate in autism (not found on PubMed; check *Research in Autism Spectrum Disorders*) |
 | 9 | CDC ADDM Network (2025 report, 2022 data) | Autism prevalence (1 in 31) |
-| 10 | Yeung, Ng & Abi-Jaoude (2022), *Can J Psychiatry* | 52% misleading ADHD TikToks |
+| 10 | ~~Yeung, Ng & Abi-Jaoude (2022), *Can J Psychiatry*~~ | ✅ Verified: 52% misleading, 27% personal experience, 21% useful |
 | 11 | Forer (1949), *J Abnormal & Social Psychology* | Barnum effect original study |
 | 12 | Karpinski et al. (2018), *Intelligence* | Mensa study claims and limitations |
 | 13 | Martin, Burns & Schonlau (2010), *Gifted Child Quarterly* | Mental health in gifted youth |
